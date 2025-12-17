@@ -5,11 +5,7 @@ This is a starter template for [LiveKit Agents](https://docs.livekit.io/agents) 
 Also available for:
 [Android](https://github.com/livekit-examples/agent-starter-android) • [Flutter](https://github.com/livekit-examples/agent-starter-flutter) • [Swift](https://github.com/livekit-examples/agent-starter-swift) • [React Native](https://github.com/livekit-examples/agent-starter-react-native)
 
-<picture>
-  <source srcset="./.github/assets/readme-hero-dark.webp" media="(prefers-color-scheme: dark)">
-  <source srcset="./.github/assets/readme-hero-light.webp" media="(prefers-color-scheme: light)">
-  <img src="./.github/assets/readme-hero-light.webp" alt="App screenshot">
-</picture>
+
 
 ### Features:
 
