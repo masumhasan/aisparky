@@ -26,7 +26,7 @@ export const APP_CONFIG_DEFAULTS: AppConfig = {
 
   supportsChatInput: true,
   supportsVideoInput: true,
-  supportsScreenShare: false,
+  supportsScreenShare: true,
   isPreConnectBufferEnabled: true,
 
   logo: 'https://www.sparktech.agency/favicon.png',
