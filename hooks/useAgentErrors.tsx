@@ -26,7 +26,7 @@ export function useAgentErrors() {
               <a
                 target="_blank"
                 rel="noopener noreferrer"
-                href="https://docs.livekit.io/agents/start/voice-ai/"
+                href="https://sparktech.agency/"
                 className="whitespace-nowrap underline"
               >
                 See quickstart guide
