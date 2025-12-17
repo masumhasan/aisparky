@@ -21,8 +21,8 @@ export interface AppConfig {
 
 export const APP_CONFIG_DEFAULTS: AppConfig = {
   companyName: 'SparkTech',
-  pageTitle: 'SparkTech Voice Agent',
-  pageDescription: 'A voice agent built with SparkTech Agency',
+  pageTitle: 'Sparky AI',
+  pageDescription: 'AI voice frontdesk agent for SparkTech Agency',
 
   supportsChatInput: true,
   supportsVideoInput: true,
