@@ -128,19 +128,6 @@ export function AgentControlBar({
             />
           )}
 
-          {/* Toggle Screen Share */}
-          {visibleControls.screenShare && (
-            <TrackToggle
-              size="icon"
-              variant="secondary"
-              aria-label="Toggle screen share"
-              source={Track.Source.ScreenShare}
-              pressed={screenShareToggle.enabled}
-              disabled={screenShareToggle.pending}
-              onPressedChange={screenShareToggle.toggle}
-            />
-          )}
-
           {/* Toggle Transcript */}
           <Toggle
             size="icon"
